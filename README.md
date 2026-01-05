@@ -39,6 +39,11 @@ Currently learning and practicing modern technologies to improve my skills.
 
 ---
 
+### 📫 Контакты
+- 📄 [Резюме](https://usenbekov9.github.io/resume/)
+<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/kutman/) -->
+- 📧 [adis@gmail.com](usenbekovadis308@gmail.com)
+
 ✨ Thanks for visiting my profile!
 
 <!--
